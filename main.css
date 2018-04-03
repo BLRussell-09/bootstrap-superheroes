@@ -1,8 +1,30 @@
 body {
   background-color: #504a4a;
-  color: white;
+  /* color: white; */
 }
 
 h1 {
   color: white;
+}
+
+#box-1 {
+  background-color: steelblue;
+  
+  padding: 1em;
+}
+/* Panels  */
+
+.panel {
+  background-color: whitesmoke;
+  border: 1px solid #ccc;
+  text-align: center;
+  height: 450px;
+}
+
+.panel .panel-heading {
+  background-color: #f78f3f
+}
+
+.charDesc {
+  color: black;
 }
