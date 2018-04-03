@@ -1,3 +1,8 @@
 body {
-  background-color: #504a4a
+  background-color: #504a4a;
+  color: white;
+}
+
+h1 {
+  color: white;
 }
