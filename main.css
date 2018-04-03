@@ -15,10 +15,10 @@ h1 {
 /* Panels  */
 
 .panel {
-  background-color: whitesmoke;
+  background-color: rgb(43, 37, 37);
   border: 1px solid #ccc;
   text-align: center;
-  height: 450px;
+  height: 475px;
 }
 
 .panel .panel-heading {
@@ -26,5 +26,13 @@ h1 {
 }
 
 .charDesc {
-  color: black;
+  color: white;
+}
+
+.green {
+  border: green 5px solid;
+}
+
+img {
+  border : pink 5px solid;
 }
