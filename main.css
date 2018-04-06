@@ -31,8 +31,14 @@ h1 {
 
 .green {
   border: green 5px solid;
+  border-radius: 50%;
 }
 
-img {
+.pink {
   border : pink 5px solid;
+  border-radius: 50%;
+}
+
+.well {
+  margin: 1em;
 }
